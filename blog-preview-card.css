@@ -46,6 +46,11 @@ h3{
 }
 h2{
     transition : color 0.3s;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 
 h2:hover{
