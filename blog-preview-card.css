@@ -44,3 +44,10 @@ h3{
 .smallcontainer img{
     width: 30px;
 }
+h2{
+    transition : color 0.3s;
+}
+
+h2:hover{
+    color: hsl(47, 88%, 63%);
+}
